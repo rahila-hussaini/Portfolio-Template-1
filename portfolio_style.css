@@ -1,0 +1,42 @@
+@media screen and (max-width: 600px) {
+    menu {
+        justify-content: flex-start;
+    }
+}
+
+body{
+    background-color: #dad5d5;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+img{
+    max-width: 100%;
+    height: auto;
+}
+
+#short-bio{
+    color: rgb(92, 88, 88);
+}
+menu{
+    background-color: #cfc9c9;
+    font-size: 18px;
+    max-width: 100%;
+    height: auto;
+}
+.bio{
+    font-size: 20px;
+    width: 850px;
+    max-width: 100%;
+    height: auto;
+    text-align: justify;
+}
+footer, #footer-test{
+    background-color: #cfc9c9;
+    text-align: center;
+    font-size: 14px;
+    padding-bottom: 15px;
+}
+#create{
+    background-color: #cfc9c9;
+    text-align: center;
+    font-size: 17px;
+}
